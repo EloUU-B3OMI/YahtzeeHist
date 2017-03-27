@@ -1,0 +1,9 @@
+bin/
+obj/
+*.userprefs
+*.suo
+*.sdf
+*.user
+.vs/
+*.opensdf
+.DS_Store
